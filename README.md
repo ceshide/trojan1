@@ -14,5 +14,5 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh 
 ```
 自己备份：
 ```bash
-curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
+curl -O https://raw.githubusercontent.com/gugd123/trojan1/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
 ```
